@@ -1,4 +1,9 @@
 {
+  "initialQuote": {
+    "text": "未经审视的人生不值得一过。",
+    "author": "苏格拉底",
+    "source": ""
+  },
   "calendar": [
     {
       "id": "1bfd38f3-3ad7-4f9f-9384-6c0821a81fc0",
@@ -23,7 +28,7 @@
   },
   "schemaVersion": 1,
   "siteTitle": "Yangkao",
-  "generatedAt": "2026-10-26T06:50:15.281Z",
+  "generatedAt": "2026-10-26T08:36:41.506Z",
   "articles": [
     {
       "id": "e4c949f1-65b6-4fe0-82bb-9ef8c5dd47ab",
