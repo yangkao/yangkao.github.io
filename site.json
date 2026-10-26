@@ -1,8 +1,8 @@
 {
   "initialQuote": {
-    "text": "未经审视的人生不值得一过。",
-    "author": "苏格拉底",
-    "source": ""
+    "text": "没有蔑视征胜不了的命运。",
+    "author": "加缪",
+    "source": "《西西弗神话》"
   },
   "calendar": [
     {
@@ -28,7 +28,7 @@
   },
   "schemaVersion": 1,
   "siteTitle": "Yangkao",
-  "generatedAt": "2026-10-26T10:39:57.449Z",
+  "generatedAt": "2026-10-26T10:41:59.245Z",
   "articles": [
     {
       "id": "e4c949f1-65b6-4fe0-82bb-9ef8c5dd47ab",
@@ -89,26 +89,6 @@
         }
       },
       "markdown": "Day2\n\n&#x20;   我的天哪你是说我刚制定完早上7：00起7：30、12：30、17：30、22：30连战四轮五小时额度的狂蹬计划于是Tibo就来送重置了吗![AC娘·经典款 · 经典 08](emoticons/ac-classic/08.png)\n\n&#x20;   神说：“要有Reset”，于是就有了Reset。\n\n&#x20;   终于不用看着周额度战至最后一刻自刎归天了![AC娘·经典款 · 经典 01](emoticons/ac-classic/01.png)\n\n![1.00](media/aac1db7f-4bca-4372-9bbd-9ab5a82adf01/web.webp)\n\n&#x20;   但你这明显削了不止一星半点的额度让我觉得28天计划后没有两天一重置会大事不妙啊![AC娘·经典款 · 经典 10](emoticons/ac-classic/10.png)\n\n&#x20;   16：12：也是经过了一轮轮的微调搞出来轻盈而雷霆的壁纸和动态样式捏![AC娘·经典款 · 经典 39](emoticons/ac-classic/39.png)现在终于可以开始狂塞达芬功能了。\n\n&#x20;   16：13：震惊眩晕瘫坐.jpg\n\n![1.00](media/2580f9fe-ad17-4656-8b27-9757382634c9/web.webp)\n\n我chovy你早说你能弄出这么好的应用图标那之前几个项目你给我弄的几大坨是何意味呢![AC娘·经典款 · 经典 09](emoticons/ac-classic/09.png)这么一对比音乐标签编辑器那会快一个小时的图标讨论跟滚木有何区别。\n\n&#x20;   19：34：饿啊，今天真的是鏖战一天错过了好多好多，出门的时候发现今天晚霞真的好美好美（话说来紫金港之后真的经常能看见壮美的晚霞，印象里高中三年我都没注意到几次），但当时满脑子就是早点吃完回来把七点前的5h额度蹬完![AC娘·经典款 · 经典 01](emoticons/ac-classic/01.png)。不过确实今天做出来的效果真的好了很多，给我一种能够直接部署上去的错觉。\n"
-    },
-    {
-      "id": "40285f5a-987f-4432-b50b-7af2077cf190",
-      "kind": "markdown",
-      "title": "新的生活记录",
-      "excerpt": "测试摘要",
-      "date": "2026-10-24",
-      "category": "uncategorized",
-      "tags": [
-        "测试"
-      ],
-      "visibility": "public",
-      "state": "published",
-      "thumbnail": {
-        "mode": "auto"
-      },
-      "readMinutes": 1,
-      "artwork": "notes",
-      "images": {},
-      "markdown": "测试文本![AC娘·经典款 · 经典 01](emoticons/ac-classic/01.png)\n"
     },
     {
       "id": "cf840bbc-b574-43f6-ad97-0f33392b94c2",
