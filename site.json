@@ -28,7 +28,7 @@
   },
   "schemaVersion": 1,
   "siteTitle": "Yangkao",
-  "generatedAt": "2026-10-26T10:20:51.000Z",
+  "generatedAt": "2026-10-26T10:39:57.449Z",
   "articles": [
     {
       "id": "e4c949f1-65b6-4fe0-82bb-9ef8c5dd47ab",
@@ -109,30 +109,6 @@
       "artwork": "notes",
       "images": {},
       "markdown": "测试文本![AC娘·经典款 · 经典 01](emoticons/ac-classic/01.png)\n"
-    },
-    {
-      "id": "cb2a21e9-8342-4a43-b02b-e1db239c322e",
-      "kind": "custom",
-      "title": "新的交互文章",
-      "excerpt": "",
-      "date": "2026-10-24",
-      "category": "uncategorized",
-      "tags": [
-        "测试"
-      ],
-      "visibility": "public",
-      "state": "published",
-      "thumbnail": {
-        "mode": "auto"
-      },
-      "readMinutes": 1,
-      "artwork": "colors",
-      "images": {},
-      "custom": {
-        "html": "",
-        "css": "",
-        "javascript": ""
-      }
     },
     {
       "id": "cf840bbc-b574-43f6-ad97-0f33392b94c2",
