@@ -23,7 +23,7 @@
   },
   "schemaVersion": 1,
   "siteTitle": "Yangkao",
-  "generatedAt": "2026-10-26T05:19:53.432Z",
+  "generatedAt": "2026-10-26T06:40:17.911Z",
   "articles": [
     {
       "id": "8046f550-2eb1-4c0d-9c07-f06513a478c0",
@@ -36,15 +36,16 @@
       "visibility": "public",
       "state": "published",
       "thumbnail": {
-        "mode": "auto"
+        "mode": "image",
+        "mediaId": "839375a2-256d-4064-b696-8663022f6cb2"
       },
       "readMinutes": 2,
       "artwork": "notes",
       "images": {
-        "7b822166-4855-42c6-85c1-4f3b7fc8c5b9": {
+        "839375a2-256d-4064-b696-8663022f6cb2": {
           "alt": "",
           "caption": "",
-          "url": "media/7b822166-4855-42c6-85c1-4f3b7fc8c5b9/web.webp"
+          "url": "media/839375a2-256d-4064-b696-8663022f6cb2/web.webp"
         },
         "aac1db7f-4bca-4372-9bbd-9ab5a82adf01": {
           "alt": "",
@@ -131,16 +132,46 @@
   ],
   "categories": [
     {
+      "id": "uncategorized",
+      "name": "未分类",
+      "parent": null,
+      "defaultThumbnail": "uncategorized"
+    },
+    {
       "id": "9f3a861e-5bb3-4c56-a394-9777c065ef6e",
       "name": "一路走来",
       "parent": null,
       "defaultThumbnail": "practice"
     },
     {
-      "id": "uncategorized",
-      "name": "未分类",
+      "id": "170e157c-05f5-473c-9975-5a3fec00f6a4",
+      "name": "浮光掠影",
       "parent": null,
-      "defaultThumbnail": "uncategorized"
+      "defaultThumbnail": "life"
+    },
+    {
+      "id": "2cf526e7-5236-4984-aa78-afa4a891dc1f",
+      "name": "求是行纪",
+      "parent": null,
+      "defaultThumbnail": "campus"
+    },
+    {
+      "id": "0f2d8e66-85a8-4c0a-a0ee-7334fa02ef40",
+      "name": "随想偶得",
+      "parent": null,
+      "defaultThumbnail": "thoughts"
+    },
+    {
+      "id": "0cf7f11c-8a25-4305-842e-c1be294a5f6e",
+      "name": "惟学无际",
+      "parent": null,
+      "defaultThumbnail": "learning"
+    },
+    {
+      "id": "737d10b7-b487-4f4e-aff4-1ea1825d76b4",
+      "name": "旅人归途",
+      "parent": null,
+      "defaultThumbnail": "travel"
     }
   ],
   "quoteEndpoint": "https://yangkao-blog-api.yjyemail2022.workers.dev/api/public/quote"
