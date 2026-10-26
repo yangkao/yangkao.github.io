@@ -1,8 +1,8 @@
 {
   "initialQuote": {
-    "text": "没有蔑视征胜不了的命运。",
-    "author": "加缪",
-    "source": "《西西弗神话》"
+    "text": "未经审视的人生不值得一过。",
+    "author": "苏格拉底",
+    "source": ""
   },
   "calendar": [
     {
@@ -28,7 +28,7 @@
   },
   "schemaVersion": 1,
   "siteTitle": "Yangkao",
-  "generatedAt": "2026-10-26T09:57:36.623Z",
+  "generatedAt": "2026-10-26T09:59:21.307Z",
   "articles": [
     {
       "id": "e4c949f1-65b6-4fe0-82bb-9ef8c5dd47ab",
