@@ -23,8 +23,33 @@
   },
   "schemaVersion": 1,
   "siteTitle": "Yangkao",
-  "generatedAt": "2026-10-26T06:40:17.911Z",
+  "generatedAt": "2026-10-26T06:50:15.281Z",
   "articles": [
+    {
+      "id": "e4c949f1-65b6-4fe0-82bb-9ef8c5dd47ab",
+      "kind": "markdown",
+      "title": "个人主页搭建 Day3",
+      "excerpt": "Day3.第一次部署，（计划）实际发布",
+      "date": "2026-10-26",
+      "category": "9f3a861e-5bb3-4c56-a394-9777c065ef6e",
+      "tags": [],
+      "visibility": "public",
+      "state": "published",
+      "thumbnail": {
+        "mode": "image",
+        "mediaId": "a4c67bf5-dbe6-4f85-96d3-bd2f09ef5b1c"
+      },
+      "readMinutes": 1,
+      "artwork": "notes",
+      "images": {
+        "a4c67bf5-dbe6-4f85-96d3-bd2f09ef5b1c": {
+          "alt": "",
+          "caption": "",
+          "url": "media/a4c67bf5-dbe6-4f85-96d3-bd2f09ef5b1c/web.webp"
+        }
+      },
+      "markdown": "&#x20;   与神秘校园网斗智斗勇的一天![AC娘·经典款 · 经典 05](emoticons/ac-classic/05.png)，校园网真的疑似与Github、Cloudflare有不共代天之仇，我tm节点都快换冒烟了就nm搁那一直502一直502![AC娘·经典款 · 经典 09](emoticons/ac-classic/09.png).\n\n&#x20;   在图书馆进行第二个5h计划时又喜提Tibo重置，看来Tibo是真的没活了![AC娘·经典款 · 经典 01](emoticons/ac-classic/01.png)。\n"
+    },
     {
       "id": "8046f550-2eb1-4c0d-9c07-f06513a478c0",
       "kind": "markdown",
