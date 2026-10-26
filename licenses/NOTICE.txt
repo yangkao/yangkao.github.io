@@ -1,0 +1,36 @@
+Local blog MVP, version 0.19.0.
+
+Milkdown / Crepe and Kit 7.22.3
+Source: https://github.com/Milkdown/milkdown
+Copyright (c) 2020-present Mirone. MIT License: Milkdown-MIT.txt.
+The editor is reused through the official packages. Local adapters and theme
+overrides are separate; no upstream source fork is maintained here.
+
+Josefin Sans
+Copyright 2010 The Josefin Sans Project Authors.
+Source: https://github.com/ThomasJockin/JosefinSansFont-master
+SIL Open Font License 1.1: JosefinSans-OFL.txt.
+The unmodified font and license were copied from the accepted sibling browser
+homepage delivery. No private theme configuration, wallpaper or business code
+from that project is included.
+
+Other package dependencies and their license files are retained in the local
+node_modules tree and locked in package-lock.json. This local review bundle is
+not a publication-ready release or a complete third-party distribution inventory.
+
+AC emoticon images
+Project-supplied source: assets/AC娘/经典款. 01-54 use deterministic
+grayscale-to-alpha conversion; other images retain their original bytes.
+These assets are separate from the editor and font licenses above.
+
+Codicons by Microsoft Corporation, CC BY 4.0. Source https://github.com/microsoft/vscode-codicons . Unmodified font reused from the installed VS Code distribution. Full attribution/license: Codicons-CCBY4.txt.
+
+Project-supplied category illustrations
+Seven teal flat illustrations generated with Image Gen and approved by the manager.
+Source assets are retained in assets/分类默认图; runtime copies are bundled locally.
+
+Project-supplied CC98 and Zhejiang University marks
+Original cc98.ico and emblem.png copied unchanged from the browser-home project.
+CC98 uses that project's original blue-to-alpha/currentColor rendering. The Qiushi
+eagle uses the exact crop polygon, viewBox and filter from its ui/script.js
+eagleSvg function, overlaid on the existing mail icon. No generated logo substitutes.
