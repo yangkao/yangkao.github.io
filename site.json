@@ -1,8 +1,8 @@
 {
   "initialQuote": {
-    "text": "没有蔑视征胜不了的命运。",
-    "author": "加缪",
-    "source": "《西西弗神话》"
+    "text": "未经审视的人生不值得一过。",
+    "author": "苏格拉底",
+    "source": ""
   },
   "calendar": [
     {
@@ -24,7 +24,31 @@
       "repeatYearly": false
     }
   ],
-  "projects": [],
+  "projects": [
+    {
+      "id": "35001f33-d9ae-443b-a56d-fee858aff79a",
+      "title": "（自用）Zjuers轻首页美化方案",
+      "overview": "总之就是在原站上接了一堆奇奇怪怪的功能，天气啊、作业啊、课表啊之类的",
+      "links": [
+        {
+          "id": "27f7014f-9138-436d-b0d2-db09f05408a6",
+          "label": "Github仓库",
+          "url": "https://github.com/yangkao/-Self-use-only-zjuers.com---ui-remake"
+        },
+        {
+          "id": "14e346b2-5465-4ab0-9651-937b6307707f",
+          "label": "线上Demo",
+          "url": "https://yangkao.github.io/-Self-use-only-zjuers.com---ui-remake/"
+        }
+      ],
+      "thumbnail": {
+        "mode": "image",
+        "mediaId": "0d24df5a-a113-40f2-ae91-359a7f134236"
+      },
+      "visibility": "public",
+      "state": "published"
+    }
+  ],
   "music": {
     "tracks": [
       {
@@ -38,7 +62,7 @@
   },
   "schemaVersion": 1,
   "siteTitle": "Yangkao",
-  "generatedAt": "2026-10-27T05:45:39.977Z",
+  "generatedAt": "2026-10-27T05:57:27.104Z",
   "articles": [
     {
       "id": "e4c949f1-65b6-4fe0-82bb-9ef8c5dd47ab",
