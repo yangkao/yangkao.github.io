@@ -13,8 +13,18 @@
       "note": "",
       "completed": false,
       "repeatYearly": false
+    },
+    {
+      "id": "f5e3177e-3f59-411f-9240-2b5bd5101d1d",
+      "type": "event",
+      "title": "首页初次部署并发布",
+      "date": "2026-10-26",
+      "note": "",
+      "completed": false,
+      "repeatYearly": false
     }
   ],
+  "projects": [],
   "music": {
     "tracks": [
       {
@@ -28,7 +38,7 @@
   },
   "schemaVersion": 1,
   "siteTitle": "Yangkao",
-  "generatedAt": "2026-10-26T11:21:20.531Z",
+  "generatedAt": "2026-10-27T05:31:01.201Z",
   "articles": [
     {
       "id": "e4c949f1-65b6-4fe0-82bb-9ef8c5dd47ab",
@@ -67,15 +77,15 @@
       "state": "published",
       "thumbnail": {
         "mode": "image",
-        "mediaId": "839375a2-256d-4064-b696-8663022f6cb2"
+        "mediaId": "24c73a8e-65cd-4b32-930e-0f4dac9f3e21"
       },
       "readMinutes": 2,
       "artwork": "notes",
       "images": {
-        "839375a2-256d-4064-b696-8663022f6cb2": {
+        "24c73a8e-65cd-4b32-930e-0f4dac9f3e21": {
           "alt": "",
           "caption": "",
-          "url": "media/839375a2-256d-4064-b696-8663022f6cb2/web.webp"
+          "url": "media/24c73a8e-65cd-4b32-930e-0f4dac9f3e21/web.webp"
         },
         "aac1db7f-4bca-4372-9bbd-9ab5a82adf01": {
           "alt": "",
@@ -113,7 +123,7 @@
           "url": "media/7b822166-4855-42c6-85c1-4f3b7fc8c5b9/web.webp"
         }
       },
-      "markdown": "&#x20;   一时兴起开坑的Day1.![AC娘·经典款 · 经典 20](emoticons/ac-classic/20.png)\n\n&#x20;   不得不说Product Design的思路真的是对gpt专攻，让它先生成概念图再照着做真的可以让gpt的大份前端审美焕然一新（鬼知道为什么gpt在概念图里展现的审美比它灾难般的前端审美好一万倍![AC娘·经典款 · 经典 01](emoticons/ac-classic/01.png)）。一天之内就能搞出如此Perfect的ui风格（好吧虽然AI味还是很重但我已经知足了），那我上个项目面对它端上来的依托（非常的新鲜，非常的美味.jpg）写的十几轮小作文修改提示词意义何在![AC娘·经典款 · 经典 09](emoticons/ac-classic/09.png)。\n\n&#x20;   今天又陆陆续续看了98上好多大佬的首页（话说台风天是真的闲得慌），只能说路漫漫其修远兮啊![AC娘·经典款 · 经典 03](emoticons/ac-classic/03.png)。总之明天接着慢慢改吧。\n\n&#x20;   21：55 ：让它做了右键展开栏之后发现真是神了，一轮做出来的视觉效果可以薄纱Win11的右键展开栏了，这给我干哪儿来了，这还是前端奶龙gpt吗？果然就是得先画概念图再按概念图去做。![AC娘·经典款 · 经典 13](emoticons/ac-classic/13.png)\n\n&#x20;   22：55 ：难以想象半个多小时全都是在测试、测试、还是tmd测试，我不是已经在AGENTS .md里写了个人项目不需要企业级测试流程了吗![AC娘·经典款 · 经典 05](emoticons/ac-classic/05.png)，一搜果然列位诸公苦防御性编程久矣，今有Stop-that-shit插件专治此病，希望明天补药再进行**52项检查、两端构建及主要浏览器核验**了。不过这轮做出来的控件柔光效果确实不错（是的为控件做一个柔光效果需要52项检查、两端构建及主要浏览器核验，这谁绷得住）\n\n<br />\n\nTo Do List：\n\n* [x] 找一下那个摸摸转转的gif，然后把头像加进去之后鼠标悬停样式就改成摸摸转转。（已完成，甚至就有那种专门制作摸头杀gif的网站，[摸头杀 GIF 生成器 - 工具哇在线工具集](https://toolwa.com/petpet/)）\n\n- [ ] 加一个简约而又雷霆炫酷吊炸天的壁纸\n- [ ] 加一个简约而又雷霆炫酷吊炸天的鼠标动效\n"
+      "markdown": "&#x20;   一时兴起开坑的Day1.![AC娘·经典款 · 经典 20](emoticons/ac-classic/20.png)\n\n&#x20;   不得不说Product Design的思路真的是对gpt专攻，让它先生成概念图再照着做真的可以让gpt的大份前端审美焕然一新（鬼知道为什么gpt在概念图里展现的审美比它灾难般的前端审美好一万倍![AC娘·经典款 · 经典 01](emoticons/ac-classic/01.png)）。一天之内就能搞出如此Perfect的ui风格（好吧虽然AI味还是很重但我已经知足了），那我上个项目面对它端上来的依托（非常的新鲜，非常的美味.jpg）写的十几轮小作文修改提示词意义何在![AC娘·经典款 · 经典 09](emoticons/ac-classic/09.png)。\n\n&#x20;   今天又陆陆续续看了98上好多大佬的首页（话说台风天是真的闲得慌），只能说路漫漫其修远兮啊![AC娘·经典款 · 经典 03](emoticons/ac-classic/03.png)。总之明天接着慢慢改吧。\n\n&#x20;   21：55 ：让它做了右键展开栏之后发现真是神了，一轮做出来的视觉效果可以薄纱Win11的右键展开栏了，这给我干哪儿来了，这还是前端奶龙gpt吗？果然就是得先画概念图再按概念图去做。![AC娘·经典款 · 经典 13](emoticons/ac-classic/13.png)\n\n&#x20;   22：55 ：难以想象半个多小时全都是在测试、测试、还是tmd测试，我不是已经在AGENTS .md里写了个人项目不需要企业级测试流程了吗![AC娘·经典款 · 经典 05](emoticons/ac-classic/05.png)，一搜果然列位诸公苦防御性编程久矣，今有Stop-that-shit插件专治此病，希望明天补药再进行**52项检查、两端构建及主要浏览器核验**了。不过这轮做出来的控件柔光效果确实不错（是的为控件做一个柔光效果需要52项检查、两端构建及主要浏览器核验，这谁绷得住）\n\n<br />\n\nTo Do List：\n\n* [x] 找一下那个摸摸转转的gif，然后把头像加进去之后鼠标悬停样式就改成摸摸转转。（已完成，甚至就有那种专门制作摸头杀gif的网站，[摸头杀 GIF 生成器 - 工具哇在线工具集](https://toolwa.com/petpet/)）\n\n- [x] 加一个简约而又雷霆炫酷吊炸天的壁纸\n- [x] 加一个简约而又雷霆炫酷吊炸天的鼠标动效\n"
     }
   ],
   "categories": [
@@ -160,5 +170,6 @@
       "defaultThumbnail": "travel"
     }
   ],
-  "quoteEndpoint": "https://yangkao-blog-api.yjyemail2022.workers.dev/api/public/quote"
+  "quoteEndpoint": "https://yangkao-blog-api.yjyemail2022.workers.dev/api/public/quote",
+  "managerEndpoint": "https://yangkao-blog-api.yjyemail2022.workers.dev"
 }
