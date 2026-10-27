@@ -1,8 +1,8 @@
 {
   "initialQuote": {
-    "text": "未经审视的人生不值得一过。",
-    "author": "苏格拉底",
-    "source": ""
+    "text": "没有蔑视征胜不了的命运。",
+    "author": "加缪",
+    "source": "《西西弗神话》"
   },
   "calendar": [
     {
@@ -62,8 +62,33 @@
   },
   "schemaVersion": 1,
   "siteTitle": "Yangkao",
-  "generatedAt": "2026-10-27T06:41:45.462Z",
+  "generatedAt": "2026-10-27T07:19:57.137Z",
   "articles": [
+    {
+      "id": "74d9f1d1-cb4c-4cd6-af73-07c5f2030f4c",
+      "kind": "markdown",
+      "title": "个人主页搭建 Day4",
+      "excerpt": "Day4 第一轮更新捏",
+      "date": "2026-10-27",
+      "category": "9f3a861e-5bb3-4c56-a394-9777c065ef6e",
+      "tags": [],
+      "visibility": "public",
+      "state": "published",
+      "thumbnail": {
+        "mode": "image",
+        "mediaId": "a63db6df-8a01-401d-962f-1d1219757a2b"
+      },
+      "readMinutes": 1,
+      "artwork": "notes",
+      "images": {
+        "a63db6df-8a01-401d-962f-1d1219757a2b": {
+          "alt": "",
+          "caption": "",
+          "url": "media/a63db6df-8a01-401d-962f-1d1219757a2b/web.webp"
+        }
+      },
+      "markdown": "&#x20;   浅浅优化了一下ui捏，还是得再夸一下Product Design的概念图![AC娘·经典款 · 经典 13](emoticons/ac-classic/13.png)，看到概念图之前我都完全没想到青色波普点接渐变背景效果这么好。\n\n&#x20;   不过gpt埋雷也是有一手![AC娘·经典款 · 经典 01](emoticons/ac-classic/01.png)，只能说你没实操的地方你永远无法想象会爆出什么问题。\n\n&#x20;   接入了项目展示，好吧虽然还是比较潦草。\n\n&#x20;   其实今天主要是改了本地工作台，原先工作台的机制真的有些不知所谓，昨天查了一下Cloudflare那边的访问数才tm发现原先工作台就连私密改公开这点事都会强制触发一遍上传![AC娘·经典款 · 经典 05](emoticons/ac-classic/05.png)。今天改了集中上传机制和资源统一管理，效果还行吧。。。还行吧。。。\n\n&#x20;   话说回来今天6.1 Terra上了于是顺理成章地没有重置，不过真的会有人用这玩意吗（上不去下不来卡那儿了.jpg）\n"
+    },
     {
       "id": "e4c949f1-65b6-4fe0-82bb-9ef8c5dd47ab",
       "kind": "markdown",
