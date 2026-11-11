@@ -66,13 +66,38 @@
         "artist": "Foxtail-Grass Studio",
         "audio": "music/foxtail-sample/audio.mp3",
         "cover": "music/foxtail-sample/cover.png"
+      },
+      {
+        "id": "110240c2-d0cc-457a-adc0-ebb2be82a4c3",
+        "title": "Choral Chambers",
+        "artist": "Christopher Larkin",
+        "audio": "music/110240c2-d0cc-457a-adc0-ebb2be82a4c3/audio.mp3",
+        "cover": "music/110240c2-d0cc-457a-adc0-ebb2be82a4c3/cover.webp"
       }
     ]
   },
   "schemaVersion": 1,
   "siteTitle": "Yangkao",
-  "generatedAt": "2026-10-29T13:48:04.836Z",
+  "generatedAt": "2026-11-11T14:09:58.586Z",
   "articles": [
+    {
+      "id": "b926de38-a599-4ca0-b02f-dbda6c746c5a",
+      "kind": "markdown",
+      "title": "随便写点",
+      "excerpt": "就当是日记了",
+      "date": "2026-11-04",
+      "category": "0f2d8e66-85a8-4c0a-a0ee-7334fa02ef40",
+      "tags": [],
+      "visibility": "public",
+      "state": "published",
+      "thumbnail": {
+        "mode": "category"
+      },
+      "readMinutes": 1,
+      "artwork": "notes",
+      "images": {},
+      "markdown": "&#x20;   2026.11.4:第一次在图书馆看智云课堂🧐，感觉有时候到图书馆看智云效率真的会变高，平时到大教室上课太容易睡死过去了，主馆四楼靠窗微冷+没人的氛围好很多🤗。想来智云还真是泥浙为数不多的创举了。顺带一提前排有位哥们用平板推084第十章在智云里看得一清二楚（想起【北教事变】）![AC娘·经典款 · 经典 01](emoticons/ac-classic/01.png)\n\n&#x20;   2026.11.4:wk似乎真的很喜欢废土![AC娘·经典款 · 经典 01](emoticons/ac-classic/01.png):\\[废土关卡安检门、废土厨房、废土撤销]，其实每次看到这种东西就会感到一种老一辈人的莫名中二。\n\n&#x20;   2026.11.8:终于不出所料地在高中同学群开到了泥浙130周年校庆吉祥物投票捏![AC娘·经典款 · 经典 02](emoticons/ac-classic/02.png)。虽然跟我一点关系没有但真的感觉丢人丢到家了，我说你哪怕看看主图四楼的小鹰这不比哪些AI泔水好多了吗，一想到这8个候选里面能胜出一个（甚至以后大概率还会见到印着这晦气玩意的浙大文创）就气笑了。\n"
+    },
     {
       "id": "0921c55c-2e3a-40a9-aed1-ff71f46b3ece",
       "kind": "markdown",
@@ -105,7 +130,7 @@
       "title": "个人主页搭建 Day4",
       "excerpt": "Day4 第一轮更新捏",
       "date": "2026-10-27",
-      "category": "9f3a861e-5bb3-4c56-a394-9777c065ef6e",
+      "category": "94574609-e4a2-43d9-9fbb-3d015ea27b10",
       "tags": [],
       "visibility": "public",
       "state": "published",
@@ -130,7 +155,7 @@
       "title": "个人主页搭建 Day3",
       "excerpt": "Day3.第一次部署，（计划）实际发布",
       "date": "2026-10-26",
-      "category": "9f3a861e-5bb3-4c56-a394-9777c065ef6e",
+      "category": "94574609-e4a2-43d9-9fbb-3d015ea27b10",
       "tags": [],
       "visibility": "public",
       "state": "published",
@@ -155,7 +180,7 @@
       "title": "个人主页搭建 Day2",
       "excerpt": "Day2 .雷霆壁纸和雷霆动态样式",
       "date": "2026-10-25",
-      "category": "9f3a861e-5bb3-4c56-a394-9777c065ef6e",
+      "category": "94574609-e4a2-43d9-9fbb-3d015ea27b10",
       "tags": [],
       "visibility": "public",
       "state": "published",
@@ -190,7 +215,7 @@
       "title": "个人主页搭建 Day1",
       "excerpt": "Day1. 基本UI风格确认",
       "date": "2026-10-24",
-      "category": "9f3a861e-5bb3-4c56-a394-9777c065ef6e",
+      "category": "94574609-e4a2-43d9-9fbb-3d015ea27b10",
       "tags": [],
       "visibility": "public",
       "state": "published",
@@ -252,6 +277,11 @@
       "name": "旅途留痕",
       "parent": null,
       "defaultThumbnail": "travel"
+    },
+    {
+      "id": "94574609-e4a2-43d9-9fbb-3d015ea27b10",
+      "name": "个人主页（就是这个站点~）",
+      "parent": "9f3a861e-5bb3-4c56-a394-9777c065ef6e"
     }
   ],
   "quoteEndpoint": "https://yangkao-blog-api.yjyemail2022.workers.dev/api/public/quote",
